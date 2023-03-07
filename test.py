@@ -1,4 +1,4 @@
-import conversions
+import conversions.py
 
 def test_celsius_to_fahrenheit():
     # Test cases for celsius to fahrenheit conversion
